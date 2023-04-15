@@ -1,40 +1,300 @@
 date,category,amount,description
-01-01-2022,food,50,Grocery shopping
-02-01-2022,food,70,Grocery shopping
-03-01-2022,travelling,10,Bus fare
-04-01-2022,food,35,Grocery shopping
-05-01-2022,entertainment,15,Concert tickets
-06-01-2022,travelling,10,Taxi fare
-07-01-2022,food,45,Grocery shopping
-08-01-2022,entertainment,30,Dinner with friends
-09-01-2022,travelling,10,Bus fare
-09-01-2022,travelling,20,Bus fare
-09-01-2022,travelling,15,Bus fare
-09-01-2022,travelling,25,Bus fare
-10-01-2022,dailyneeds,100,Electricity bill
-10-01-2022,dailyneeds,80,Water bill
-11-01-2022,utilities,90,Gas bill
-12-01-2022,dailyneeds,70,Electricity bill
-13-01-2022,entertainment,20,Movie tickets
-14-01-2022,food,60,Grocery shopping
-15-01-2022,food,45,Grocery shopping
-16-01-2022,food,80,Grocery shopping
-17-01-2022,healthcare,80,Doctor's visit
-18-01-2022,healthcare,120,Dentist's visit
-19-01-2022,healthcare,60,Doctor's visit
-20-01-2022,healthcare,90,Doctor
-21-01-2022,entertainment,25,Movie tickets
-22-01-2022,entertainment,40,Concert tickets
-23-01-2022,entertainment,20,Movie tickets
-24-01-2022,food,40,Grocery shopping
-25-01-2022,food,50,Grocery shopping
-26-01-2022,food,35,Grocery shopping
-27-01-2022,travelling,5,Taxi fare
-28-01-2022,travelling,15,Taxi fare
-29-01-2022,travelling,25,Taxi fare
-30-01-2022,entertainment,40,Dinner with friends
-30-01-2022,entertainment,35,Movie tickets
-30-01-2022,entertainment,50,Dinner with friends
-31-01-2022,food,55,Grocery shopping
-31-01-2022,food,60,Grocery shopping
-31-01-2022,food,65,Grocery shopping
+01-01-2023,food,50,Grocery shopping
+15-04-2023,food,70,Grocery shopping
+09-02-2023,travelling,10,Bus fare
+22-01-2023,food,35,Grocery shopping
+17-02-2023,entertainment,15,Concert tickets
+21-01-2023,travelling,10,Taxi fare
+29-01-2023,food,45,Grocery shopping
+09-02-2023,entertainment,30,Dinner with friends
+17-03-2023,travelling,10,Bus fare
+07-04-2023,travelling,20,Bus fare
+12-02-2023,travelling,15,Bus fare
+01-03-2023,travelling,25,Bus fare
+21-02-2023,dailyneeds,100,Electricity bill
+03-01-2023,dailyneeds,80,Water bill
+08-03-2023,utilities,90,Gas bill
+10-02-2023,dailyneeds,70,Electricity bill
+13-04-2023,entertainment,20,Movie tickets
+12-01-2023,food,60,Grocery shopping
+22-02-2023,food,45,Grocery shopping
+23-03-2023,food,80,Grocery shopping
+10-02-2023,healthcare,80,Doctor's visit
+31-01-2023,healthcare,120,Dentist's visit
+06-03-2023,healthcare,60,Doctor's visit
+14-01-2023,healthcare,90,Doctor
+18-01-2023,entertainment,25,Movie tickets
+29-01-2023,entertainment,40,Concert tickets
+14-01-2023,entertainment,20,Movie tickets
+28-03-2023,food,40,Grocery shopping
+23-02-2023,food,50,Grocery shopping
+19-03-2023,food,35,Grocery shopping
+11-04-2023,travelling,5,Taxi fare
+01-02-2023,travelling,15,Taxi fare
+18-03-2023,travelling,25,Taxi fare
+06-01-2023,entertainment,40,Dinner with friends
+30-01-2023,entertainment,35,Movie tickets
+15-04-2023,entertainment,50,Dinner with friends
+08-03-2023,food,55,Grocery shopping
+06-04-2023,food,60,Grocery shopping
+15-03-2023,food,65,Grocery shopping
+24-03-2023,food,30,Grocery shopping
+08-02-2023,food,110,Grocery shopping
+01-02-2023,travelling,5,Bus fare
+07-01-2023,food,245,Grocery shopping
+20-01-2023,entertainment,125,Concert tickets
+10-03-2023,travelling,90,Taxi fare
+15-01-2023,food,115,Grocery shopping
+01-01-2023,entertainment,185,Dinner with friends
+03-04-2023,travelling,80,Bus fare
+19-01-2023,travelling,65,Bus fare
+07-04-2023,travelling,160,Bus fare
+17-03-2023,travelling,95,Bus fare
+09-02-2023,dailyneeds,165,Electricity bill
+07-03-2023,dailyneeds,140,Water bill
+07-02-2023,utilities,190,Gas bill
+07-02-2023,dailyneeds,125,Electricity bill
+15-03-2023,entertainment,135,Movie tickets
+26-01-2023,food,145,Grocery shopping
+03-02-2023,food,150,Grocery shopping
+31-03-2023,food,60,Grocery shopping
+01-02-2023,healthcare,100,Doctor's visit
+13-04-2023,healthcare,145,Dentist's visit
+11-04-2023,healthcare,180,Doctor's visit
+25-02-2023,healthcare,105,Doctor
+10-01-2023,entertainment,20,Movie tickets
+15-02-2023,entertainment,135,Concert tickets
+20-02-2023,entertainment,40,Movie tickets
+22-01-2023,food,175,Grocery shopping
+28-03-2023,food,110,Grocery shopping
+07-04-2023,food,85,Grocery shopping
+11-01-2023,travelling,250,Taxi fare
+03-03-2023,travelling,85,Taxi fare
+16-03-2023,travelling,160,Taxi fare
+11-01-2023,entertainment,35,Dinner with friends
+12-03-2023,entertainment,30,Movie tickets
+01-03-2023,entertainment,10,Dinner with friends
+06-01-2023,food,195,Grocery shopping
+05-01-2023,food,95,Grocery shopping
+16-03-2023,food,240,Grocery shopping
+26-01-2023,food,15,Grocery shopping
+13-01-2023,food,80,Grocery shopping
+13-02-2023,travelling,15,Bus fare
+28-01-2023,healthcare,240,Dentist's visit
+10-03-2023,healthcare,215,Doctor's visit
+03-01-2023,healthcare,240,Doctor
+06-01-2023,entertainment,110,Movie tickets
+12-03-2023,entertainment,230,Concert tickets
+18-01-2023,entertainment,130,Movie tickets
+04-02-2023,food,145,Grocery shopping
+23-02-2023,food,200,Grocery shopping
+23-03-2023,food,85,Grocery shopping
+29-03-2023,travelling,225,Taxi fare
+13-02-2023,travelling,60,Taxi fare
+21-01-2023,travelling,60,Taxi fare
+24-03-2023,entertainment,95,Dinner with friends
+10-03-2023,entertainment,250,Movie tickets
+01-04-2023,entertainment,135,Dinner with friends
+01-03-2023,food,145,Grocery shopping
+27-01-2023,food,220,Grocery shopping
+31-01-2023,food,75,Grocery shopping
+13-02-2023,food,175,Grocery shopping
+24-02-2023,food,145,Grocery shopping
+02-02-2023,travelling,30,Bus fare
+10-01-2023,food,25,Grocery shopping
+10-04-2023,entertainment,95,Concert tickets
+15-04-2023,travelling,45,Taxi fare
+01-01-2023,food,120,Grocery shopping
+19-02-2023,entertainment,235,Dinner with friends
+17-02-2023,travelling,15,Bus fare
+28-03-2023,travelling,165,Bus fare
+21-02-2023,travelling,15,Bus fare
+13-03-2023,travelling,50,Bus fare
+06-03-2023,dailyneeds,200,Electricity bill
+20-03-2023,dailyneeds,190,Water bill
+05-01-2023,utilities,180,Gas bill
+01-04-2023,dailyneeds,55,Electricity bill
+01-03-2023,entertainment,245,Movie tickets
+27-03-2023,food,100,Grocery shopping
+15-03-2023,food,250,Grocery shopping
+26-02-2023,food,140,Grocery shopping
+14-03-2023,healthcare,200,Doctor's visit
+07-03-2023,healthcare,5,Dentist's visit
+13-04-2023,healthcare,225,Doctor's visit
+07-03-2023,healthcare,95,Doctor
+27-02-2023,entertainment,145,Movie tickets
+28-01-2023,entertainment,90,Concert tickets
+15-03-2023,entertainment,120,Movie tickets
+26-02-2023,food,185,Grocery shopping
+12-01-2023,food,55,Grocery shopping
+21-03-2023,food,240,Grocery shopping
+12-03-2023,travelling,85,Taxi fare
+04-01-2023,travelling,135,Taxi fare
+03-02-2023,travelling,210,Taxi fare
+06-02-2023,entertainment,145,Dinner with friends
+11-03-2023,entertainment,235,Movie tickets
+14-01-2023,entertainment,10,Dinner with friends
+01-02-2023,food,140,Grocery shopping
+21-02-2023,food,200,Grocery shopping
+04-02-2023,food,230,Grocery shopping
+13-04-2023,food,180,Grocery shopping
+23-01-2023,food,195,Grocery shopping
+26-01-2023,travelling,180,Bus fare
+29-03-2023,entertainment,195,Movie tickets
+07-02-2023,entertainment,15,Dinner with friends
+13-01-2023,food,220,Grocery shopping
+31-03-2023,food,235,Grocery shopping
+12-01-2023,food,210,Grocery shopping
+08-04-2023,food,105,Grocery shopping
+16-01-2023,food,105,Grocery shopping
+09-03-2023,travelling,185,Bus fare
+30-03-2023,healthcare,55,Dentist's visit
+12-03-2023,healthcare,95,Doctor's visit
+18-02-2023,healthcare,80,Doctor
+05-01-2023,entertainment,5,Movie tickets
+05-04-2023,entertainment,165,Concert tickets
+29-01-2023,entertainment,25,Movie tickets
+27-02-2023,food,105,Grocery shopping
+13-03-2023,food,170,Grocery shopping
+05-02-2023,food,155,Grocery shopping
+06-01-2023,travelling,200,Taxi fare
+23-02-2023,travelling,205,Taxi fare
+23-02-2023,travelling,215,Taxi fare
+10-01-2023,entertainment,115,Dinner with friends
+02-04-2023,entertainment,250,Movie tickets
+10-02-2023,entertainment,185,Dinner with friends
+01-03-2023,food,185,Grocery shopping
+14-01-2023,food,30,Grocery shopping
+18-02-2023,food,155,Grocery shopping
+02-01-2023,food,10,Grocery shopping
+26-02-2023,food,45,Grocery shopping
+15-02-2023,travelling,245,Bus fare
+15-04-2023,food,15,Grocery shopping
+03-03-2023,entertainment,15,Concert tickets
+20-02-2023,travelling,130,Taxi fare
+09-01-2023,food,95,Grocery shopping
+12-03-2023,entertainment,120,Dinner with friends
+23-02-2023,travelling,195,Bus fare
+22-02-2023,travelling,50,Bus fare
+07-01-2023,travelling,200,Bus fare
+08-04-2023,travelling,35,Bus fare
+14-02-2023,dailyneeds,10,Electricity bill
+17-02-2023,dailyneeds,230,Water bill
+04-03-2023,utilities,50,Gas bill
+02-02-2023,dailyneeds,25,Electricity bill
+03-04-2023,entertainment,130,Movie tickets
+13-02-2023,food,100,Grocery shopping
+12-01-2023,food,145,Grocery shopping
+24-01-2023,food,185,Grocery shopping
+05-01-2023,healthcare,45,Doctor's visit
+27-02-2023,healthcare,215,Dentist's visit
+17-01-2023,healthcare,70,Doctor's visit
+14-04-2023,healthcare,125,Doctor
+08-03-2023,entertainment,70,Movie tickets
+08-04-2023,entertainment,95,Concert tickets
+05-04-2023,entertainment,195,Movie tickets
+08-02-2023,food,15,Grocery shopping
+05-01-2023,food,155,Grocery shopping
+07-01-2023,food,60,Grocery shopping
+31-01-2023,travelling,85,Taxi fare
+07-01-2023,travelling,40,Taxi fare
+26-01-2023,travelling,160,Taxi fare
+19-01-2023,entertainment,30,Dinner with friends
+06-03-2023,entertainment,170,Movie tickets
+16-03-2023,entertainment,60,Dinner with friends
+27-03-2023,food,185,Grocery shopping
+11-03-2023,food,180,Grocery shopping
+17-02-2023,food,200,Grocery shopping
+03-04-2023,food,175,Grocery shopping
+04-01-2023,food,230,Grocery shopping
+09-01-2023,travelling,20,Bus fare
+26-03-2023,entertainment,165,Concert tickets
+06-04-2023,entertainment,30,Movie tickets
+07-01-2023,food,185,Grocery shopping
+12-01-2023,food,150,Grocery shopping
+05-01-2023,food,185,Grocery shopping
+27-01-2023,travelling,215,Taxi fare
+29-03-2023,travelling,200,Taxi fare
+07-02-2023,travelling,35,Taxi fare
+13-04-2023,entertainment,160,Dinner with friends
+12-02-2023,entertainment,130,Movie tickets
+31-03-2023,entertainment,240,Dinner with friends
+18-02-2023,food,230,Grocery shopping
+05-01-2023,food,110,Grocery shopping
+19-02-2023,food,80,Grocery shopping
+04-04-2023,food,5,Grocery shopping
+15-02-2023,food,130,Grocery shopping
+20-02-2023,travelling,110,Bus fare
+21-01-2023,food,110,Grocery shopping
+14-01-2023,entertainment,245,Concert tickets
+11-03-2023,travelling,50,Taxi fare
+11-04-2023,food,135,Grocery shopping
+09-04-2023,entertainment,65,Dinner with friends
+17-02-2023,travelling,60,Bus fare
+20-02-2023,travelling,175,Bus fare
+08-03-2023,travelling,160,Bus fare
+18-03-2023,travelling,225,Bus fare
+01-03-2023,dailyneeds,30,Electricity bill
+01-02-2023,dailyneeds,235,Water bill
+03-02-2023,utilities,175,Gas bill
+05-02-2023,dailyneeds,120,Electricity bill
+12-02-2023,entertainment,250,Movie tickets
+07-02-2023,food,30,Grocery shopping
+18-03-2023,food,245,Grocery shopping
+11-02-2023,food,135,Grocery shopping
+25-01-2023,healthcare,210,Doctor's visit
+02-03-2023,healthcare,190,Dentist's visit
+30-03-2023,healthcare,85,Doctor's visit
+13-04-2023,healthcare,210,Doctor
+19-01-2023,entertainment,180,Movie tickets
+14-03-2023,entertainment,125,Concert tickets
+22-03-2023,entertainment,40,Movie tickets
+06-01-2023,food,60,Grocery shopping
+15-02-2023,food,30,Grocery shopping
+04-02-2023,food,235,Grocery shopping
+20-02-2023,travelling,210,Taxi fare
+06-03-2023,travelling,200,Taxi fare
+08-03-2023,travelling,135,Taxi fare
+27-01-2023,entertainment,135,Dinner with friends
+07-04-2023,entertainment,50,Movie tickets
+09-03-2023,entertainment,125,Dinner with friends
+31-01-2023,food,225,Grocery shopping
+03-04-2023,food,165,Grocery shopping
+06-02-2023,food,195,Grocery shopping
+07-01-2023,food,230,Grocery shopping
+06-02-2023,food,145,Grocery shopping
+04-01-2023,travelling,170,Bus fare
+08-04-2023,healthcare,70,Dentist's visit
+01-02-2023,healthcare,155,Doctor's visit
+04-03-2023,healthcare,175,Doctor
+04-01-2023,entertainment,145,Movie tickets
+09-04-2023,entertainment,135,Concert tickets
+18-02-2023,entertainment,145,Movie tickets
+11-04-2023,food,175,Grocery shopping
+12-01-2023,food,90,Grocery shopping
+20-02-2023,food,125,Grocery shopping
+27-03-2023,travelling,230,Taxi fare
+12-02-2023,travelling,130,Taxi fare
+14-04-2023,travelling,205,Taxi fare
+08-02-2023,entertainment,155,Dinner with friends
+08-04-2023,entertainment,125,Movie tickets
+03-02-2023,entertainment,130,Dinner with friends
+12-04-2023,food,220,Grocery shopping
+07-01-2023,food,150,Grocery shopping
+25-03-2023,food,245,Grocery shopping
+09-03-2023,food,195,Grocery shopping
+04-02-2023,food,90,Grocery shopping
+02-03-2023,travelling,190,Bus fare
+04-01-2023,food,70,Grocery shopping
+08-03-2023,entertainment,220,Concert tickets
+16-03-2023,travelling,240,Taxi fare
+27-02-2023,food,145,Grocery shopping
+26-03-2023,entertainment,45,Dinner with friends
+05-04-2023,travelling,15,Bus fare
+23-02-2023,travelling,190,Bus fare
+19-02-2023,travelling,190,Bus fare
+18-02-2023,travelling,20,Bus fare
+29-01-2023,dailyneeds,90,Electricity bill
+03-03-2023,dailyneeds,100,Water bill
+25-03-2023,utilities,185,Gas bill
+13-02-2023,dailyneeds,190,Electricity bill

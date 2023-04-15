@@ -1,0 +1,40 @@
+date,category,amount,description
+01-01-2022,food,50,Grocery shopping
+02-01-2022,food,70,Grocery shopping
+03-01-2022,travelling,10,Bus fare
+04-01-2022,food,35,Grocery shopping
+05-01-2022,entertainment,15,Concert tickets
+06-01-2022,travelling,10,Taxi fare
+07-01-2022,food,45,Grocery shopping
+08-01-2022,entertainment,30,Dinner with friends
+09-01-2022,travelling,10,Bus fare
+09-01-2022,travelling,20,Bus fare
+09-01-2022,travelling,15,Bus fare
+09-01-2022,travelling,25,Bus fare
+10-01-2022,dailyneeds,100,Electricity bill
+10-01-2022,dailyneeds,80,Water bill
+11-01-2022,utilities,90,Gas bill
+12-01-2022,dailyneeds,70,Electricity bill
+13-01-2022,entertainment,20,Movie tickets
+14-01-2022,food,60,Grocery shopping
+15-01-2022,food,45,Grocery shopping
+16-01-2022,food,80,Grocery shopping
+17-01-2022,healthcare,80,Doctor's visit
+18-01-2022,healthcare,120,Dentist's visit
+19-01-2022,healthcare,60,Doctor's visit
+20-01-2022,healthcare,90,Doctor
+21-01-2022,entertainment,25,Movie tickets
+22-01-2022,entertainment,40,Concert tickets
+23-01-2022,entertainment,20,Movie tickets
+24-01-2022,food,40,Grocery shopping
+25-01-2022,food,50,Grocery shopping
+26-01-2022,food,35,Grocery shopping
+27-01-2022,travelling,5,Taxi fare
+28-01-2022,travelling,15,Taxi fare
+29-01-2022,travelling,25,Taxi fare
+30-01-2022,entertainment,40,Dinner with friends
+30-01-2022,entertainment,35,Movie tickets
+30-01-2022,entertainment,50,Dinner with friends
+31-01-2022,food,55,Grocery shopping
+31-01-2022,food,60,Grocery shopping
+31-01-2022,food,65,Grocery shopping

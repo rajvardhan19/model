@@ -77,5 +77,11 @@ next_month_df['category_code'] = 0  # Assume food category
 next_month_spending = model.predict(next_month_df[features])
 predicted_spending = np.sum(next_month_spending)
 print(f"Your predicted spending for next month is: ${predicted_spending:.2f}")
-if predicted_spending > 500:
-    print("You might want to consider reducing your spending.")
+# if predicted_spending > 500:
+#     print("You might want to consider reducing your spending.")
+
+# Provide personalized advice based on the predicted spending
+if predicted_spending.mean() > spending_data['amount'].mean():
+    print("You might want to consider creating a budget to manage your spending.")
+else:
+    print("Your spending is within a healthy range.")
